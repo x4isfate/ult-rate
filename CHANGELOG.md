@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.1 — documentation fixes
+
+### Fixed
+- Documentation: description aligned with the current behaviour (toolbox button, module hub button, privacy notes, colour list).
+
 ## 0.5.0 — test build
 
 First working version, first public release on GitHub.

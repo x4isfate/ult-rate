@@ -2,7 +2,7 @@
   "id": "ult-rate",
   "title": "ULT's Session Rating",
   "description": "Players rate the game master after a session without leaving Foundry: five smooth sliders, optional notes, anonymous or named voting, per-session history and a trend chart. Test build.",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "authors": [
     {
       "name": "4isfate",
@@ -11,7 +11,7 @@
   ],
   "url": "https://github.com/x4isfate/ult-rate",
   "manifest": "https://github.com/x4isfate/ult-rate/releases/latest/download/module.json",
-  "download": "https://github.com/x4isfate/ult-rate/releases/download/v0.5.0/ult-rate.zip",
+  "download": "https://github.com/x4isfate/ult-rate/releases/download/v0.5.1/ult-rate.zip",
   "bugs": "https://github.com/x4isfate/ult-rate/issues",
   "changelog": "https://github.com/x4isfate/ult-rate/blob/main/CHANGELOG.md",
   "readme": "https://github.com/x4isfate/ult-rate/blob/main/README.md",
